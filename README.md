@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZenPandaOoO
+- 👀 I’m interested in learning about programming
+- 🌱 I’m currently going through the foundations course
+- 💞️ I’m looking to collaborate on ...
+- ⚡ Fun fact: I took a C++ programming class in college and lasted 3 days
